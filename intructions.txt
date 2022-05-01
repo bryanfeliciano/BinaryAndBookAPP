@@ -1,0 +1,7 @@
+To use and test this code please delete the html file "books.html" if present
+(Since the function of the code is to create an html file given mrc file).
+Go to the project page on archive.org:
+https://archive.org/download/marc_oregon_summit_records/catalog_files/
+Download the ohsu_ncnm_wscc_bibs.mrc file. For this lesson, you’ll rename the file
+sample.mrc
+From there one load the file in your ghci terminal and run your program 
